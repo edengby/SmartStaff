@@ -1,0 +1,2 @@
+db table creation:
+CREATE TABLE staff ( id VARCHAR(50), name VARCHAR(50), status VARCHAR(50), date TIMESTAMP );

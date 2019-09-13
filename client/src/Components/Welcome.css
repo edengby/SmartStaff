@@ -1,0 +1,27 @@
+.header {
+  text-align: left;
+  font-size:30px;
+  padding:10px;
+  display:flex;
+}
+
+.login-button {
+  margin-left: 20px;
+}
+
+
+.error-massage-false{
+visibility: visible;
+}
+
+.error-massage-true{
+  visibility: hidden;
+}
+
+.welcome {
+  padding-top: 0px;
+  width:500px;
+  margin:0 auto;
+}
+
+

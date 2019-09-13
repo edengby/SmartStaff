@@ -1,0 +1,30 @@
+.table-title{
+    border-top: 1px solid;
+    border-color: black;
+    padding-top:15px;
+    padding-left:95px;
+}
+
+.search-input{
+    margin:10px;
+}
+
+.filter-dropdown{
+    margin-left: 250px;
+}
+
+.table-component{
+    padding-top: 0px;
+    width:850px;
+    margin:0 auto;
+}
+
+.table-row{
+    border: 3px black;
+    width:675px;
+    height:30px;
+}
+
+.table{
+    overflow: initial;
+}
